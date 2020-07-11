@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### A developer having passion in problem solving, designing and building data-intensive web applications. Main skills include web development (full stack) with passionate interest in front end and Progressive Web Apps
+### A developer having passion in problem solving, designing and building data-intensive web applications
 
 ## Links 🔗
 
