@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - **Twitter:** [@faizanu94](https://twitter.com/faizanu94)
 
-- **LinkedIn:** [faizanuddin](https://www.linkedin.com/in/faizanuddin/)
+- **LinkedIn:** https://www.linkedin.com/in/faizanuddin/
 
 - **Stack Overflow**: https://stackoverflow.com/users/4593781/muhammad-faizan-uddin
 
