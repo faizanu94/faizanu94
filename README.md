@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### A developer having passion in problem solving, designing and building data-intensive web applications. Main skills include web development (full stack) with passionate interest in front end and Progressive Web Apps
+
+## Links 🔗
+
+- **Twitter:** [@faizanu94](https://twitter.com/faizanu94)
+
+- **LinkedIn:** [faizanuddin](https://www.linkedin.com/in/faizanuddin/)
+
+- **Stack Overflow**: https://stackoverflow.com/users/4593781/muhammad-faizan-uddin
+
+- **Blog**: https://medium.com/@faizanuddin
