@@ -21,5 +21,9 @@ Here are some ideas to get you started:
 
 - **Twitter:** [@faizanu94](https://twitter.com/faizanu94)
 - **LinkedIn:** https://www.linkedin.com/in/faizanuddin
-- **Stack Overflow**: https://stackoverflow.com/users/4593781/muhammad-faizan-uddin
 - **Blog**: https://medium.com/@faizanuddin
+- **Stack Overflow**: https://stackoverflow.com/users/4593781/muhammad-faizan-uddin
+
+## Certifications 📜
+
+- **Redis Labs,** [Redis Certified Developer](https://www.credential.net/fca07871-9904-4f1d-824e-5715113b431e)
