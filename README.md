@@ -26,6 +26,8 @@ Here are some ideas to get you started:
   <img align="left" alt="Muhammad Faizan Uddin | Twitter" src="https://abs.twimg.com/favicons/twitter.ico" />
 </a>
 
-## Certifications 📜
+<br>
+
+### Certifications 📜
 
 - **Redis Labs,** [Redis Certified Developer](https://www.credential.net/fca07871-9904-4f1d-824e-5715113b431e)
