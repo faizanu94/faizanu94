@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://twitter.com/faizanu94">
-  <img align="left" alt="Muhammad Faizan Uddin | Twitter" src="https://abs.twimg.com/favicons/twitter.ico" />
-</a>
 <a href="https://stackoverflow.com/users/4593781/muhammad-faizan-uddin">
   <img align="left" alt="Muhammad Faizan Uddin | CodeSandbox" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196" />
+</a>
+<a href="https://twitter.com/faizanu94">
+  <img align="left" alt="Muhammad Faizan Uddin | Twitter" src="https://abs.twimg.com/favicons/twitter.ico" />
 </a>
 
 <br>
