@@ -18,11 +18,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="https://linkedin.com/in/faizanuddin">
+  <img align="left" alt="Muhammad Faizan Uddin | LinkedIn" src="https://static-exp1.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico"/>
+</a>
 <a href="https://twitter.com/faizanu94">
-  <img align="left" alt="Muhammad Faizan Uddin | Twitter" src="https://abs.twimg.com/favicons/twitter.ico" />
+  <img align="left" alt="Muhammad Faizan Uddin | Twitter" src="https://abs.twimg.com/favicons/twitter.ico"/>
 </a>
 <a href="https://stackoverflow.com/users/4593781/muhammad-faizan-uddin">
-  <img align="left" alt="Muhammad Faizan Uddin | CodeSandbox" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196" />
+  <img align="left" alt="Muhammad Faizan Uddin | Stack Overflow" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"/>
 </a>
 
 <br>
