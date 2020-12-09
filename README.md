@@ -7,8 +7,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
--->
 - 🌱 I’m currently reading [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
+-->
 - 👯 I’m looking to collaborate on a search engine / front-end library / npm module
 <!--
 - 🤔 I’m looking for help with ...
@@ -24,9 +24,11 @@ Here are some ideas to get you started:
 <a href="https://stackoverflow.com/users/4593781/muhammad-faizan-uddin">
   <img align="left" alt="Muhammad Faizan Uddin | Stack Overflow" src="https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196"/>
 </a>
+<!--
 
 <br>
 
 ### Certifications 📜
 
 - **Redis Labs,** [Redis Certified Developer](https://www.credential.net/fca07871-9904-4f1d-824e-5715113b431e)
+-->
