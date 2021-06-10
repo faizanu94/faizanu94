@@ -6,11 +6,14 @@
 
 ## 🛠 Technologies
 
-![HTML5](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+![Ionic](https://img.shields.io/badge/-Ionic-333333?style=flat&logo=ionic)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 
 ## 🕸️ Web Presence
 
