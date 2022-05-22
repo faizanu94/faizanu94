@@ -1,8 +1,6 @@
 ## ✨ Introduction
 
 - 👨‍💻 Full Stack Developer focusing on algorithms, web performance and design
-- 🔭 Currently learning Flutter and Stencil
-- 👯 Looking to collaborate on a utility library or npm module
 
 ## 🛠 Technologies
 
