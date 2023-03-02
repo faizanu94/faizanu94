@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Faizan Uddin</h1>
-<h3 align="center">Frontend engineer specialized in problem solving, algorithms, system design and JavaScript</h3>
+<h3 align="center">Passionate Software Engineer specialized in UI engineering who likes to work with JavaScript and the ecosystem around it</h3>
 
 <h3 align="left">Web Presence:</h3>
 <p align="left">
