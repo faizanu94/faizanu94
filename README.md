@@ -7,7 +7,7 @@
 
 ## 👨‍💻 Technologies
 
-<img width="35" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
+[<img width="35" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />](https://reactjs.org/)
 
 ## 📜 Certifications
 
