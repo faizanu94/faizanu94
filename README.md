@@ -1,8 +1,4 @@
 <div>
-  <h3 align="center">Passionate Software Engineer specialized in UI engineering who likes to work with JavaScript and
-    the
-    ecosystem around it</h3>
-
   <h3 align="left">Web Presence:</h3>
   <p align="left">
     <a href="https://linkedin.com/in/faizanuddin" target="blank"><img align="center"
