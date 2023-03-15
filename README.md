@@ -3,7 +3,7 @@
 [<img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg"/>](https://stackoverflow.com/users/4593781)
 [<img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg"/>](https://twitter.com/faizanu94)
 [<img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" />](https://medium.com/@faizanuddin)
-[<img width="35" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hackerrank_meaningful_logo.svg" />](https://www.hackerrank.com/faizanu94)
+[<img height="35" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hackerrank_meaningful_logo.svg" />](https://www.hackerrank.com/faizanu94)
 
 ## 👨‍💻 Technologies
 
