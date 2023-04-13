@@ -15,7 +15,6 @@
 
 ## ✍️ Blog Posts
 
-- [From Monoliths to Microservices ~ an architectural approach for legacy modernization
-](https://medium.com/@faizanuddin/from-monoliths-to-microservices-an-architectural-approach-for-legacy-modernization-afa70b72be39)
-- [Enterprise Application Integration in a Nutshell
-](https://medium.com/@faizanuddin/enterprise-application-integration-in-a-nutshell-cb024c3314ae)
+- [From Monoliths to Microservices ~ an architectural approach for legacy modernization](https://medium.com/@faizanuddin/from-monoliths-to-microservices-an-architectural-approach-for-legacy-modernization-afa70b72be39)
+- [Enterprise Application Integration in a Nutshell](https://medium.com/@faizanuddin/enterprise-application-integration-in-a-nutshell-cb024c3314ae)
+- [The Power of HTTP: A Guide to Delivering Seamless User Experience](https://medium.com/@faizanuddin/the-power-of-http-a-guide-to-delivering-seamless-user-experience-7ef68931b788)
