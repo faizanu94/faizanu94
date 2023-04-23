@@ -19,6 +19,6 @@
 - [Enterprise Application Integration in a Nutshell](https://medium.com/@faizanuddin/enterprise-application-integration-in-a-nutshell-cb024c3314ae)
 - [The Power of HTTP: A Guide to Delivering Seamless User Experience](https://medium.com/@faizanuddin/the-power-of-http-a-guide-to-delivering-seamless-user-experience-7ef68931b788)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=faizanu94&count_private=true&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=faizanu94&count_private=true&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizanu94&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizanu94&layout=compact)
