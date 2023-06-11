@@ -22,6 +22,6 @@
 
 ## ⚡ Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faizanu94&count_private=true&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faizanu94&count_private=true&show_icons=true&include_all_commits=true&rank_icon=github&theme=transparent)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=faizanu94&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizanu94&layout=compact&theme=transparent)
