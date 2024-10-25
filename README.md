@@ -3,12 +3,14 @@
 [<img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg"/>](https://twitter.com/faizanu94)
 [<img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg"/>](https://stackoverflow.com/users/4593781)
 [<img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" />](https://medium.com/@faizanuddin)
-[<img height="35" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hackerrank_meaningful_logo.svg" />](https://www.hackerrank.com/faizanu94)
+[<img height="35" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" />](https://instagram.com/@faizanu94)
+
 
 ## 👨‍💻 Technologies
 
 [<img align="left" height="35" src="https://www.google.com/chrome/static/images/chrome-logo.svg" />](https://developer.chrome.com/)
-[<img height="35" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />](https://reactjs.org/)
+[<img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />](https://reactjs.org/)
+[<img height="35" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />](https://nodejs.org/)
 
 ## 📜 Certifications
 
