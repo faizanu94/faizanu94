@@ -1,4 +1,4 @@
-Hey :wave: - I’m Faizan, a frontend-focused engineer with a passion for JavaScript, building tiny libraries and high-performance user experiences. I specialize in universal components for consistent, fast web and mobile apps.
+Hey :wave: - I’m Faizan, a frontend-focused engineer with a passion for JavaScript, building tiny libraries and universal components for consistent, fast web and mobile apps.
 
 ## 🕸️ Connect With Me
 [<img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />](https://linkedin.com/in/faizanuddin)
@@ -11,7 +11,7 @@ Hey :wave: - I’m Faizan, a frontend-focused engineer with a passion for JavaSc
 
 [<img align="left" height="35" src="https://www.google.com/chrome/static/images/chrome-logo.svg" />](https://developer.chrome.com/)
 [<img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />](https://reactjs.org/)
-[<img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" />](https://reactjs.org/)
+[<img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" />](https://www.npmjs.com/)
 [<img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />](https://nodejs.org/)
 [<img height="35" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Amazon_Lambda_architecture_logo.svg" />](https://aws.amazon.com/lambda/)
 
