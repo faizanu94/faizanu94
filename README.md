@@ -1,3 +1,5 @@
+I’m Faizan, a frontend-focused engineer with a passion for JavaScript and crafting seamless, high-performance user experiences. My expertise includes building universal components that deliver consistency and performance across web and mobile platforms.
+
 ## 🕸️ Web
 [<img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />](https://linkedin.com/in/faizanuddin)
 [<img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg"/>](https://twitter.com/faizanu94)
