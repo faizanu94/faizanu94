@@ -11,6 +11,7 @@ Hey :wave: - I’m Faizan, a frontend-focused engineer with a passion for JavaSc
 
 [<img align="left" height="35" src="https://www.google.com/chrome/static/images/chrome-logo.svg" />](https://developer.chrome.com/)
 [<img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />](https://reactjs.org/)
+[<img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" />](https://reactjs.org/)
 [<img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />](https://nodejs.org/)
 [<img height="35" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Amazon_Lambda_architecture_logo.svg" />](https://aws.amazon.com/lambda/)
 
