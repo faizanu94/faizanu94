@@ -1,4 +1,4 @@
-Hey :wave: - I’m Faizan, a frontend-focused engineer with a passion for JavaScript and crafting seamless, high-performance user experiences. My expertise includes building universal components that deliver consistency and performance across web and mobile platforms.
+Hey :wave: - I’m Faizan, a frontend-focused engineer with a passion for JavaScript, building tiny libraries and high-performance user experiences. I specialize in universal components for consistent, fast web and mobile apps.
 
 ## 🕸️ Connect With Me
 [<img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />](https://linkedin.com/in/faizanuddin)
