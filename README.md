@@ -1,4 +1,21 @@
-Hey :wave: - I’m Faizan, a frontend-focused engineer with a passion for JavaScript, building tiny libraries and universal components for consistent, fast web and mobile apps.
+### Hey :wave: I'm Faizan
+
+I'm a frontend-focused engineer who thrives at the intersection of performance, DX and system design. I build fast, composable and testable components for both web and native apps — and I love going deep on the performance and memory management.
+
+I own the main thread and use DevTools to trace bottlenecks, memory leaks and long tasks. I debug slow UIs like a systems engineer.
+
+#### What I’m into lately:
+- Visual performance tooling — from Flamecharts to Span Trees thru DevTools
+- Canvas
+- Reverse engineering slow performance in real apps
+- Contibuting to OSS
+
+#### My Stack
+- JavaScript, TypeScript, React, React Native
+- Node.js, AWS Lambda, CDK
+- OpenTelemetry, Grafana, DataDog
+
+You can find me fiddling with weird rendering ideas, building SDKs or reverse engineering slow pages in Chrome DevTools.
 
 ## 🕸️ Connect With Me
 [<img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />](https://linkedin.com/in/faizanuddin)
