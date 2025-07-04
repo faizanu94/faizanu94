@@ -10,11 +10,6 @@ I own the main thread and use DevTools to trace bottlenecks, memory leaks and lo
 - Reverse engineering slow performance in real apps
 - Contibuting to OSS
 
-#### My Stack
-- JavaScript, TypeScript, React, React Native
-- Node.js, AWS Lambda, CDK
-- OpenTelemetry, Grafana, DataDog
-
 You can find me fiddling with weird rendering ideas, building SDKs or reverse engineering slow pages in Chrome DevTools.
 
 ## 🕸️ Connect With Me
