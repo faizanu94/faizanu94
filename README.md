@@ -27,10 +27,13 @@ You can find me fiddling with weird rendering ideas, building SDKs or reverse en
 ## 👨‍💻 Tech Stack & Tools
 
 [<img align="left" height="35" src="https://www.google.com/chrome/static/images/chrome-logo.svg" />](https://developer.chrome.com/)
+[<img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" />](https://www.typescriptlang.org/)
 [<img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />](https://reactjs.org/)
 [<img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" />](https://www.npmjs.com/)
 [<img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />](https://nodejs.org/)
-[<img height="35" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Amazon_Lambda_architecture_logo.svg" />](https://aws.amazon.com/lambda/)
+[<img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Amazon_Lambda_architecture_logo.svg" />](https://aws.amazon.com/lambda/)
+[<img height="35" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Datadog_logo.svg/1920px-Datadog_logo.svg.png" />](https://www.datadoghq.com/)
 
 ## 📜 Certifications
 
