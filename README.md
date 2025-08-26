@@ -6,7 +6,6 @@ Interest Areas:
 - Canvas
 - Event-driven systems
 - Chrome DevTools
-- Tiny npm packages
 - TDD
 
 ## 🕸️ Connect With Me
