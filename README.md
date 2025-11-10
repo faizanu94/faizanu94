@@ -1,10 +1,10 @@
 ### Hey :wave: I'm Faizan
 
-UI engineer passionate about JavaScript. I focus on performance, DX and system design — building universal components.
+Engineer building reactive, event driven systems across UI, workflows and infrastructure.
 
-Interest Areas:
-- Canvas
-- Event-driven systems
+## Areas of Work
+- Workflows / Event driven systems
+- Developer Experience / Platform Engineering
 - Chrome DevTools
 - TDD
 
