@@ -1,6 +1,6 @@
 name: Metrics
 on:
-  schedule: [{ cron: "0 0 * * *" }]
+  schedule: [{ cron: "0 0 * * *" }] # daily at midnight UTC
   workflow_dispatch:
 
 permissions:
@@ -22,9 +22,8 @@ jobs:
           plugin_activity: yes
           plugin_activity_limit: 10
           plugin_activity_days: 14
-          plugin_activity_filter: pr
+          plugin_activity_filter: pr, issue
           plugin_activity_visibility: public
           plugin_activity_timestamps: true
           plugin_activity_load: 300
-          plugin_activity_skipped: ""
           plugin_activity_ignored: "github-actions[bot],dependabot[bot]"
