@@ -43,9 +43,3 @@ Engineer building reactive, event driven systems across UI, workflows and infras
   <img src="https://github-readme-streak-stats.herokuapp.com?user=faizanu94&mode=weekly&theme=transparent&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizanu94&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
-
-## ⚡ Contributions
-
-<p align="center">
-  <img src="./github-metrics.svg" alt="Daily Metrics (PR activity, commits, and contributions)" />
-</p>
