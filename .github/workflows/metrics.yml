@@ -1,6 +1,6 @@
 name: Metrics
 on:
-  schedule: [{ cron: "0 0 * * *" }] # daily at midnight UTC
+  schedule: [{ cron: "0 0 * * *" }]
   workflow_dispatch:
 
 permissions:
@@ -11,12 +11,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - name: Configure git
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
       - name: Generate PR activity metrics
         uses: lowlighter/metrics@latest
         with:
@@ -27,12 +25,12 @@ jobs:
           base: header
           filename: github-metrics.svg
           config_timezone: America/Vancouver
-
-          # Only show recent merged PRs
           plugin_activity: yes
           plugin_activity_limit: 10
-          plugin_activity_days: 7
-          plugin_activity_filter: pr
+          plugin_activity_days: 90
+          plugin_activity_filter: all
           plugin_activity_visibility: public
           plugin_activity_timestamps: true
           plugin_activity_load: 100
+          plugin_activity_skipped: ""
+          plugin_activity_ignored: github-actions[bot],dependabot[bot]
