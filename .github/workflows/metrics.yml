@@ -1,24 +1,30 @@
 name: Metrics
 on:
-  schedule: [{ cron: "0 */12 * * *" }]
+  # Runs every 12 hours
+  schedule:
+    - cron: "0 */12 * * *"
+
+  # Allow manual trigger
   workflow_dispatch:
+
+  # Also rebuild when you push to master (forces first run)
+  push:
+    branches: [ master ]
+
+permissions:
+  contents: write  # ← REQUIRED for it to commit github-metrics.svg
 
 jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
-        env:
-          METRICS_DEBUG: true
-          PUPPETEER_SKIP_CHROMIUM_DOWNLOAD: true
-          PUPPETEER_EXECUTABLE_PATH: google-chrome-stable
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: faiznau94
           template: classic
           base: header
           filename: github-metrics.svg
-
           plugin_activity: yes
           plugin_activity_limit: 10
           plugin_activity_days: 0
