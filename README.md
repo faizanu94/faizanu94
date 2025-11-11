@@ -39,7 +39,13 @@ Engineer building reactive, event driven systems across UI, workflows and infras
 ## ⚡ Stats
 
 <p align="center">
-  <img height="130" src="https://github-readme-stats.vercel.app/api?username=faizanu94&count_private=true&show_icons=true&include_all_commits=true&rank_icon=github&theme=transparent" alt="GitHub Stats" />
-  <img height="130" src="https://github-readme-streak-stats.herokuapp.com?user=faizanu94&mode=weekly&theme=transparent" alt="GitHub Streak" />
-  <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizanu94&layout=compact&theme=transparent" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=faizanu94&count_private=true&show_icons=true&include_all_commits=true&rank_icon=github&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=faizanu94&mode=weekly&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizanu94&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+</p>
+
+## ⚡ Contributions
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="Daily Metrics (PR activity, commits, and contributions)" />
 </p>
