@@ -1,7 +1,7 @@
-name: Recent activity
+name: Recent activity (Repository style)
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight UTC
+    - cron: "0 0 * * *" # Daily at midnight UTC
   workflow_dispatch:
 
 permissions:
@@ -14,11 +14,19 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          user: faizanu94
-          template: classic                     # ✅ use the Classic template
-          filename: github-metrics.svg
-          base: ""
+          user: faizanu94                     # ✅ your GitHub username
+          template: repository                # 📘 repository visual template
+          filename: github-metrics.svg        # ✅ output filename
+          base: ""                            # no base summary
+          config_timezone: America/Vancouver
+
+          # ---- Plugins ----
           plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 0
-          plugin_activity_filter: issue, pr, release, fork, review, ref/create
+          plugin_activity_limit: 10
+          plugin_activity_days: 30
+          plugin_activity_filter: pr
+          plugin_activity_visibility: public
+          plugin_activity_timestamps: true
+          plugin_followup: yes                # shows your issue/PR stats
+          plugin_lines: yes                   # lines of code changed
+          plugin_languages: yes               # language usage summary
