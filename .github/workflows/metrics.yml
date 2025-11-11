@@ -2,6 +2,9 @@ name: Metrics
 on:
   schedule: [{ cron: "0 */12 * * *" }]
   workflow_dispatch:
+  push:
+    branches:
+      - master
 
 jobs:
   metrics:
@@ -14,7 +17,6 @@ jobs:
           template: classic
           base: header
           filename: github-metrics.svg
-
           plugin_activity: yes
           plugin_activity_limit: 10
           plugin_activity_days: 0
