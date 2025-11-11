@@ -1,30 +1,27 @@
 name: Metrics
 on:
-  # Runs every 12 hours
-  schedule:
-    - cron: "0 */12 * * *"
-
-  # Allow manual trigger
+  schedule: [{ cron: "0 * * * *" }] # hourly
   workflow_dispatch:
-
-  # Also rebuild when you push to master (forces first run)
   push:
-    branches: [ master ]
+    branches: [ master, main ]
 
 permissions:
-  contents: write  # ← REQUIRED for it to commit github-metrics.svg
+  contents: write
 
 jobs:
-  metrics:
+  github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: faiznau94
           template: classic
-          base: header
+          base: header, activity, community, repositories, metadata
           filename: github-metrics.svg
+          config_timezone: America/Vancouver
+
           plugin_activity: yes
           plugin_activity_limit: 10
           plugin_activity_days: 0
