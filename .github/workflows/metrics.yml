@@ -15,7 +15,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-      - name: Generate PR activity metrics
+      - name: Generate contribution metrics (stable)
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -25,12 +25,7 @@ jobs:
           base: header
           filename: github-metrics.svg
           config_timezone: America/Vancouver
-          plugin_activity: yes
-          plugin_activity_limit: 10
-          plugin_activity_days: 90
-          plugin_activity_filter: all
-          plugin_activity_visibility: public
-          plugin_activity_timestamps: true
-          plugin_activity_load: 100
-          plugin_activity_skipped: ""
-          plugin_activity_ignored: github-actions[bot],dependabot[bot]
+          plugin_followup: yes
+          plugin_followup_sections: repositories, user
+          plugin_followup_indepth: yes
+          plugin_followup_archived: no
