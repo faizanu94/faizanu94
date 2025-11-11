@@ -1,6 +1,7 @@
 name: Metrics
 on:
-  schedule: [{ cron: "0 0 * * *" }]
+  schedule:
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -16,13 +17,14 @@ jobs:
           user: faizanu94
           template: classic
           base: header
+
           filename: github-metrics.svg
-          config_timezone: America/Vancouver
 
           plugin_activity: yes
-          plugin_activity_limit: 1000          # max allowed
-          plugin_activity_days: 30             # last 30 days
-          plugin_activity_filter: pr           # pull requests only
-          plugin_activity_visibility: public   # only public repos
-          plugin_activity_timestamps: true     # show timestamps
+          plugin_activity_limit: 1000
+          plugin_activity_load: 300
+          plugin_activity_days: 30
+          plugin_activity_filter: pr
+          plugin_activity_visibility: public
+          plugin_activity_timestamps: true
           plugin_activity_ignored: "github-actions[bot],dependabot[bot]"
