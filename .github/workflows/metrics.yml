@@ -11,20 +11,20 @@ permissions:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+
     steps:
-      # ✅ Required: checkout repo before writing SVG
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # ✅ Generate metrics
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}  # ✅ ensures push works
           user: faiznau94
           template: classic
           base: header, activity, community, repositories, metadata
-          filename: .cache/github-metrics.svg     # ✅ force new diff each run
+          filename: .cache/github-metrics.svg            # ✅ ensures diff on each run
           config_timezone: America/Vancouver
 
           plugin_activity: yes
