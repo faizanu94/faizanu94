@@ -1,0 +1,11 @@
+# Only include PullRequestEvent entries
+event_filter:
+  - PullRequestEvent
+
+# Only include events where action = closed AND merged = true
+event_filter_props:
+  action: closed
+  merged: true
+
+# Max number of lines in README
+max_lines: 10
