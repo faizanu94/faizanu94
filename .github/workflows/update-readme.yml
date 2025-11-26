@@ -12,7 +12,10 @@ jobs:
       contents: write
 
     steps:
-      - uses: Readme-Workflows/recent-activity@v2
+      - uses: actions/checkout@v4
+
+      - name: Recent GitHub Activity - Profile Readme
+        uses: Readme-Workflows/recent-activity@v2.4.1
         with:
           GH_USERNAME: "faizanu94"
           MAX_LINES: 10
