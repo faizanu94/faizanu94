@@ -10,17 +10,21 @@ Focused on developer experience, distributed execution and correctness.
 - Test driven development & code correctness  
 
 ## 🕸️ Connect With Me
-[<img align="left" height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg"/>](https://twitter.com/faizanu94)
-[<img align="left" height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />](https://linkedin.com/in/faizanuddin)
-[<img align="left" height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg"/>](https://stackoverflow.com/users/4593781)
-[<img align="left" height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" />](https://medium.com/@faizanuddin)
-[<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" />](https://instagram.com/faizanu94)
+[<img align="left" height="24" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg"/>](https://twitter.com/faizanu94)
+[<img align="left" height="24" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />](https://linkedin.com/in/faizanuddin)
+[<img align="left" height="24" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg"/>](https://stackoverflow.com/users/4593781)
+[<img align="left" height="24" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" />](https://medium.com/@faizanuddin)
+[<img height="24" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" />](https://instagram.com/faizanu94)
+
+</br>
 
 ## 🧰 Tech Stack
 JavaScript / TypeScript • React • Node.js • AWS Serverless • Vercel
 
 ## 🎓 Certifications
-[<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Logo-redis.svg" />](https://www.credential.net/fca07871-9904-4f1d-824e-5715113b431e)
+[<img height="24" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Logo-redis.svg" />](https://www.credential.net/fca07871-9904-4f1d-824e-5715113b431e)
+
+</br>
 
 ## ✍️ Articles
 - [The Power of HTTP: Delivering Seamless UX](https://medium.com/@faizanuddin/the-power-of-http-a-guide-to-delivering-seamless-user-experience-7ef68931b788)
