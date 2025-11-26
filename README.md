@@ -10,24 +10,24 @@ Focused on developer experience, distributed execution and correctness.
 - Test driven development & code correctness  
 
 ## 🕸️ Connect With Me
-[<img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg"/>](https://twitter.com/faizanu94)
-[<img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />](https://linkedin.com/in/faizanuddin)
-[<img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg"/>](https://stackoverflow.com/users/4593781)
-[<img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" />](https://medium.com/@faizanuddin)
-[<img height="35" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" />](https://instagram.com/faizanu94)
+[<img align="left" height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg"/>](https://twitter.com/faizanu94)
+[<img align="left" height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />](https://linkedin.com/in/faizanuddin)
+[<img align="left" height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg"/>](https://stackoverflow.com/users/4593781)
+[<img align="left" height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" />](https://medium.com/@faizanuddin)
+[<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" />](https://instagram.com/faizanu94)
 
 ## 🧰 Tech Stack & Tools
-[<img align="left" height="35" src="https://www.google.com/chrome/static/images/chrome-logo.svg" />](https://developer.chrome.com/)
-[<img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />](https://www.typescriptlang.org/)
-[<img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />](https://reactjs.org/)
-[<img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" />](https://www.npmjs.com/)
-[<img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />](https://nodejs.org/)
-[<img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Amazon_Lambda_architecture_logo.svg" />](https://aws.amazon.com/lambda/)
-[<img height="35" src="https://upload.wikimedia.org/wikipedia/en/7/7e/Datadog_logo.svg" />](https://www.datadoghq.com/)
+[<img align="left" height="30" src="https://www.google.com/chrome/static/images/chrome-logo.svg" />](https://developer.chrome.com/)
+[<img align="left" height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img align="left" height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />](https://www.typescriptlang.org/)
+[<img align="left" height="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />](https://reactjs.org/)
+[<img align="left" height="30" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" />](https://www.npmjs.com/)
+[<img align="left" height="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />](https://nodejs.org/)
+[<img align="left" height="30" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Amazon_Lambda_architecture_logo.svg" />](https://aws.amazon.com/lambda/)
+[<img height="30" src="https://upload.wikimedia.org/wikipedia/en/7/7e/Datadog_logo.svg" />](https://www.datadoghq.com/)
 
 ## 🎓 Certifications
-[<img height="35" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Logo-redis.svg" />](https://www.credential.net/fca07871-9904-4f1d-824e-5715113b431e)
+[<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Logo-redis.svg" />](https://www.credential.net/fca07871-9904-4f1d-824e-5715113b431e)
 
 ## ✍️ Articles
 - [The Power of HTTP: Delivering Seamless UX](https://medium.com/@faizanuddin/the-power-of-http-a-guide-to-delivering-seamless-user-experience-7ef68931b788)
