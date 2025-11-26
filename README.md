@@ -16,7 +16,7 @@ Focused on developer experience, distributed execution and performance.
 - Event driven architecture & workflow runtimes  
 - Developer Experience & platform engineering  
 
-## 🕸️ Connect With Me
+## 🕸️ Connect
 [<img align="left" height="24" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg"/>](https://twitter.com/faizanu94)
 [<img align="left" height="24" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />](https://linkedin.com/in/faizanuddin)
 [<img align="left" height="24" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg"/>](https://stackoverflow.com/users/4593781)
