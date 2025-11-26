@@ -1,7 +1,5 @@
-## Hey 👋 I'm Faizan
-
-Engineer shaping reactive, event-driven systems across UI, workflows and infrastructure.  
-Focused on developer experience, distributed execution and correctness.
+Software Engineer shaping reactive, event driven systems across UI, workflows and infrastructure.  
+Focused on developer experience, distributed execution and performance.
 
 ## 🔥 Recent Merged PRs
 
@@ -17,8 +15,6 @@ Focused on developer experience, distributed execution and correctness.
 ## 🧭 Areas of Work
 - Event driven architecture & workflow runtimes  
 - Developer Experience & platform engineering  
-- Chrome DevTools & browser runtime tooling  
-- Test driven development & code correctness  
 
 ## 🕸️ Connect With Me
 [<img align="left" height="24" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg"/>](https://twitter.com/faizanu94)
