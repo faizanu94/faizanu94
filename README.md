@@ -46,4 +46,7 @@ Engineer building reactive, event driven systems across UI, workflows and infras
 
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#984](https://github.com/inngest/inngest-js/issues/984#issuecomment-3475747382) in [inngest/inngest-js](https://github.com/inngest/inngest-js)
+2. 💪 Opened PR [#1150](undefined) in [inngest/inngest-js](https://github.com/inngest/inngest-js)
+3. 🗣 Commented on [#513](https://github.com/unjs/ofetch/pull/513#issuecomment-3453926522) in [unjs/ofetch](https://github.com/unjs/ofetch)
 <!--END_SECTION:activity-->
