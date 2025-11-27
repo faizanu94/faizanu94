@@ -1,7 +1,7 @@
 Software Engineer shaping reactive, event driven systems across UI, workflows and infrastructure.  
 Focused on developer experience, distributed execution and performance.
 
-## 🔥 Recent Merged PRs
+## 🔀 Recent Contributions
 
 - [inngest-js #1150](https://github.com/inngest/inngest-js/pull/1150)
 - [cacheable #1270](https://github.com/jaredwray/cacheable/pull/1270)
