@@ -1,4 +1,4 @@
-Software Engineer shaping reactive, event driven systems across UI, workflows and infrastructure.  
+Engineer shaping reactive, event driven systems across UI, workflows and platform surfaces.
 Focused on developer experience, distributed execution and performance.
 
 ## 🔀 Recent Contributions
@@ -13,8 +13,9 @@ Focused on developer experience, distributed execution and performance.
 - [jest #14625](https://github.com/jestjs/jest/pull/14625)
 
 ## 🧭 Areas of Work
+- Reactive UIs and canvas based interfaces
 - Event driven architecture & workflow runtimes  
-- Developer Experience & platform engineering  
+- DX tools, SDKs & platform engineering
 
 ## 🕸️ Connect
 [<img align="left" height="24" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg"/>](https://twitter.com/faizanu94)
