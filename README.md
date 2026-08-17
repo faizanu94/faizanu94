@@ -26,15 +26,3 @@ TypeScript • React • React Native • Node.js • Vue • PHP • Laravel �
 
 ## 🎓 Certifications
 [<img height="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo-redis_%28old%29.svg/3840px-Logo-redis_%28old%29.svg.png" />](https://www.credential.net/fca07871-9904-4f1d-824e-5715113b431e)
-
-## ✍️ Articles
-- [The Power of HTTP: Delivering Seamless UX](https://medium.com/@faizanuddin/the-power-of-http-a-guide-to-delivering-seamless-user-experience-7ef68931b788)
-- [Enterprise Application Integration in a Nutshell](https://medium.com/@faizanuddin/enterprise-application-integration-in-a-nutshell-cb024c3314ae)
-- [From Monoliths to Microservices](https://medium.com/@faizanuddin/from-monoliths-to-microservices-an-architectural-approach-for-legacy-modernization-afa70b72be39)
-
-## ⚡ Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faizanu94&count_private=true&show_icons=true&include_all_commits=true&rank_icon=github&theme=transparent&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=faizanu94&mode=weekly&theme=transparent&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizanu94&layout=compact&theme=transparent&hide_border=true" />
-</p>
