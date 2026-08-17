@@ -25,7 +25,7 @@ Focused on developer experience, compute, and performance at traffic scale.
 TypeScript • React • React Native • Node.js • Vue • PHP • Laravel • OpenTelemetry • AWS • GCP
 
 ## 🎓 Certifications
-[<img height="24" src="https://en.wikipedia.org/wiki/Redis#/media/File:Redis_logo.svg" />](https://www.credential.net/fca07871-9904-4f1d-824e-5715113b431e)
+[<img height="24" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo-redis_%28old%29.svg/3840px-Logo-redis_%28old%29.svg.png" />](https://www.credential.net/fca07871-9904-4f1d-824e-5715113b431e)
 
 ## ✍️ Articles
 - [The Power of HTTP: Delivering Seamless UX](https://medium.com/@faizanuddin/the-power-of-http-a-guide-to-delivering-seamless-user-experience-7ef68931b788)
