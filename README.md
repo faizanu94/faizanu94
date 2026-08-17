@@ -1,6 +1,6 @@
 Systems thinker & engineer, shaping reactive, event-driven systems across complex workflows and UI engineering.
 
-Focused on developer experience, compute, and performance at traffic scale.
+Focused on developer experience, compute and performance at high scale.
 
 ## 🔀 Contributions
 
