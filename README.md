@@ -1,7 +1,8 @@
-Engineer shaping reactive, event driven systems across UI, workflows and platform surfaces.
-Focused on developer experience, distributed execution and performance.
+Systems thinker & engineer, shaping reactive, event-driven systems across complex workflows and UI engineering.
 
-## 🔀 Recent Contributions
+Focused on developer experience, compute, and performance at traffic scale.
+
+## 🔀 Contributions
 
 - [inngest-js #1150](https://github.com/inngest/inngest-js/pull/1150)
 - [cacheable #1270](https://github.com/jaredwray/cacheable/pull/1270)
@@ -12,10 +13,6 @@ Focused on developer experience, distributed execution and performance.
 - [react-tags #933](https://github.com/react-tags/react-tags/pull/933)
 - [jest #14625](https://github.com/jestjs/jest/pull/14625)
 
-## 🧭 Areas of Work
-- Reactive UIs and canvas based interfaces
-- Event driven architecture & workflow runtimes  
-- DX tools, SDKs & platform engineering
 
 ## 🕸️ Connect
 [<img align="left" height="24" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg"/>](https://twitter.com/faizanu94)
@@ -25,10 +22,10 @@ Focused on developer experience, distributed execution and performance.
 [<img height="24" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" />](https://instagram.com/faizanu94)
 
 ## 🧰 Tech Stack
-TypeScript • React • React Native • Node.js • OpenTelemetry • AWS Lambda • Chrome Extensions • Cloudflare Workers (learning)
+TypeScript • React • React Native • Node.js • Vue • PHP • Laravel • OpenTelemetry • AWS • GCP
 
 ## 🎓 Certifications
-[<img height="24" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Logo-redis.svg" />](https://www.credential.net/fca07871-9904-4f1d-824e-5715113b431e)
+[<img height="24" src="https://en.wikipedia.org/wiki/Redis#/media/File:Redis_logo.svg" />](https://www.credential.net/fca07871-9904-4f1d-824e-5715113b431e)
 
 ## ✍️ Articles
 - [The Power of HTTP: Delivering Seamless UX](https://medium.com/@faizanuddin/the-power-of-http-a-guide-to-delivering-seamless-user-experience-7ef68931b788)
