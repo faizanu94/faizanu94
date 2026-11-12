@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="470" viewBox="0 0 920 470" role="img" aria-label="Stack graph. React and Canvas flow through Cloudflare Workers into Node.js, then through Inngest and state machines into Postgres. Software engineer, 10+ years, Calgary, Alberta, Canada.">
+  <defs>
+    <radialGradient id="glowC" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#5ce1e6" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#5ce1e6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#d4a574" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#d4a574" stop-opacity="0"/>
+    </radialGradient>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+      <path d="M 0 1.5 L 8 5 L 0 8.5 Z" fill="#5ce1e6" fill-opacity="0.8"/>
+    </marker>
+    <marker id="arrowWarm" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto">
+      <path d="M 0 1.5 L 8 5 L 0 8.5 Z" fill="#f0c48a" fill-opacity="0.8"/>
+    </marker>
+    <path id="spineA" d="M120 300 Q212 282 300 235 Q404 258 520 255 Q602 198 690 165 Q772 196 845 250"/>
+    <path id="spineB" d="M130 165 Q216 185 300 235 Q404 258 520 255 Q609 310 700 340 Q776 307 845 250"/>
+    <style>
+      .bg { fill: #07090f; stroke: #ffffff; stroke-opacity: 0.08; }
+      .kicker { font: 500 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: 2.2px; fill: #5ce1e6; }
+      .title { font: 800 25px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; letter-spacing: -0.6px; fill: #ffffff; }
+      .meta { font: 500 10.5px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: 1.5px; fill: #7a8494; }
+      .place { font: 500 10.5px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: 1.6px; fill: #d4a574; }
+      .edge { fill: none; stroke-width: 1.7; stroke-linecap: round; stroke-dasharray: 5 8; stroke-opacity: 0.6; animation: flow 1.5s linear infinite; }
+      .warm { stroke: #d4a574; }
+      .cool { stroke: #5ce1e6; }
+      .back { fill: #07090f; }
+      .ring { fill: none; stroke-width: 1.6; }
+      .name { font: 700 14px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; fill: #e8edf4; paint-order: stroke fill; stroke: #07090f; stroke-width: 6px; stroke-linejoin: round; }
+      .sub { font: 500 9.5px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: 1px; fill: #8b95a5; paint-order: stroke fill; stroke: #07090f; stroke-width: 5px; stroke-linejoin: round; }
+      @keyframes flow { to { stroke-dashoffset: -13; } }
+      @media (prefers-reduced-motion: reduce) { .edge { animation: none; } }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0.5" y="0.5" width="919" height="469" rx="22"/>
+  <circle cx="130" cy="260" r="150" fill="url(#glowB)" opacity="0.16"/>
+  <circle cx="520" cy="275" r="170" fill="url(#glowC)" opacity="0.16"/>
+  <circle cx="800" cy="275" r="150" fill="url(#glowB)" opacity="0.12"/>
+
+  <text class="kicker" x="40" y="42">STACK GRAPH</text>
+  <text class="title" x="40" y="72">Software Engineer &#183; 10+ years</text>
+  <text class="meta" x="40" y="94">PAYMENTS &#183; MARKETPLACES &#183; TELECOM</text>
+  <circle cx="669" cy="38.5" r="3" fill="#5ce1e6">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <text class="place" x="880" y="42" text-anchor="end">CALGARY, ALBERTA, CANADA</text>
+  <text class="meta" x="880" y="62" text-anchor="end">2016 &#8594; NOW</text>
+
+  <g transform="translate(0 22)">
+    <g>
+      <path class="edge warm" marker-end="url(#arrowWarm)" d="M143.5 291.5 Q212 282 270.9 245.5"/>
+      <path class="edge warm" marker-end="url(#arrowWarm)" d="M149.4 173 Q216 185 271.3 223.2"/>
+      <path class="edge warm" marker-end="url(#arrowWarm)" d="M401.2 146.5 Q356 173 323.3 214.6"/>
+      <path class="edge warm" marker-end="url(#arrowWarm)" d="M435.6 149.5 Q473 181 495.6 224.5"/>
+      <path class="edge cool" marker-end="url(#arrow)" d="M328.9 237.6 Q404 258.5 481.2 251.5"/>
+      <path class="edge cool" marker-end="url(#arrow)" d="M552.7 237.7 Q602 198 662.6 179.5"/>
+      <path class="edge cool" marker-end="url(#arrow)" d="M553.4 270.8 Q609 310.5 675.6 328.5"/>
+      <path class="edge cool" marker-end="url(#arrow)" d="M691.7 194 Q707 253 698.5 313"/>
+      <path class="edge cool" marker-end="url(#arrow)" d="M715.4 178.9 Q772 196.5 817.8 235.1"/>
+      <path class="edge cool" marker-end="url(#arrow)" d="M721.2 326.8 Q776 307 818.7 266.3"/>
+      <path class="edge warm" marker-end="url(#arrowWarm)" d="M492.7 280 Q462 321 418.4 348.1"/>
+    </g>
+
+    <circle r="3.6" fill="#5ce1e6">
+      <animateMotion dur="9s" repeatCount="indefinite">
+        <mpath href="#spineA"/>
+      </animateMotion>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.06;0.94;1" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="3.2" fill="#f0c48a">
+      <animateMotion dur="11s" begin="3s" repeatCount="indefinite">
+        <mpath href="#spineB"/>
+      </animateMotion>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.06;0.94;1" dur="11s" begin="3s" repeatCount="indefinite"/>
+    </circle>
+
+    <g transform="translate(130 165)">
+      <circle class="back" r="16"/>
+      <circle class="ring" r="16" stroke="#c4a882" stroke-opacity="0.45"/>
+      <circle r="5.5" fill="#c4a882"/>
+      <text class="name" y="-38" text-anchor="middle">Canvas &#183; WebGL</text>
+      <text class="sub" y="-24" text-anchor="middle">PIXELS</text>
+    </g>
+    <g transform="translate(120 300)">
+      <circle class="back" r="20"/>
+      <circle class="ring" r="20" stroke="#d4a574" stroke-opacity="0.45"/>
+      <circle r="7" fill="#d4a574"/>
+      <text class="name" y="42" text-anchor="middle">React</text>
+      <text class="sub" y="56" text-anchor="middle">INTERFACE</text>
+    </g>
+    <g transform="translate(300 235)">
+      <circle class="back" r="24"/>
+      <circle class="ring" r="24" stroke="#e0b888" stroke-opacity="0.5"/>
+      <circle r="8" fill="#e0b888"/>
+      <text class="name" y="46" text-anchor="middle">Cloudflare Workers</text>
+      <text class="sub" y="60" text-anchor="middle">EDGE</text>
+    </g>
+    <g transform="translate(420 130)">
+      <circle class="back" r="20"/>
+      <circle class="ring" r="20" stroke="#d4a574" stroke-opacity="0.45"/>
+      <circle r="7" fill="#f0c48a"/>
+      <text class="name" y="-42" text-anchor="middle">TypeScript</text>
+      <text class="sub" y="-28" text-anchor="middle">CONTRACTS</text>
+    </g>
+    <g transform="translate(400 365)">
+      <circle class="back" r="18"/>
+      <circle class="ring" r="18" stroke="#c4a882" stroke-opacity="0.45"/>
+      <circle r="6" fill="#c4a882"/>
+      <text class="name" y="38" text-anchor="middle">AWS</text>
+      <text class="sub" y="52" text-anchor="middle">CLOUD</text>
+    </g>
+    <g transform="translate(520 255)">
+      <circle class="back" r="32"/>
+      <circle class="ring" r="32" stroke="#5ce1e6" stroke-opacity="0.9"/>
+      <circle r="20" fill="none" stroke="#5ce1e6" stroke-opacity="0.28">
+        <animate attributeName="r" values="18;28;18" dur="3.2s" repeatCount="indefinite"/>
+        <animate attributeName="stroke-opacity" values="0.45;0;0.45" dur="3.2s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="11" fill="#5ce1e6"/>
+      <text class="name" y="54" text-anchor="middle">Node.js</text>
+      <text class="sub" y="68" text-anchor="middle">RUNTIME</text>
+    </g>
+    <g transform="translate(690 165)">
+      <circle class="back" r="24"/>
+      <circle class="ring" r="24" stroke="#5ce1e6" stroke-opacity="0.55"/>
+      <circle r="8" fill="#5ce1e6" fill-opacity="0.85"/>
+      <text class="name" y="-46" text-anchor="middle">Inngest</text>
+      <text class="sub" y="-32" text-anchor="middle">DURABLE WORKFLOWS</text>
+    </g>
+    <g transform="translate(700 340)">
+      <circle class="back" r="20"/>
+      <circle class="ring" r="20" stroke="#5ce1e6" stroke-opacity="0.45"/>
+      <circle r="7" fill="#5ce1e6" fill-opacity="0.7"/>
+      <text class="name" y="42" text-anchor="middle">State machines</text>
+      <text class="sub" y="56" text-anchor="middle">QUEUES &#183; EVENTS</text>
+    </g>
+    <g transform="translate(845 250)">
+      <circle class="back" r="24"/>
+      <circle class="ring" r="24" stroke="#d4a574" stroke-opacity="0.5"/>
+      <circle r="8" fill="#f0c48a"/>
+      <text class="name" y="46" text-anchor="middle">Postgres</text>
+      <text class="sub" y="60" text-anchor="middle">SOURCE OF TRUTH</text>
+    </g>
+  </g>
+</svg>
